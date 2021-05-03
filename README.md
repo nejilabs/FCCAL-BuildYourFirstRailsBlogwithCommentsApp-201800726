@@ -1,4 +1,4 @@
-#FCCAL-BuildYourFirstRailsBlogwithCommentsApp-201800726
+# FCCAL-BuildYourFirstRailsBlogwithCommentsApp-201800726
 
 Title: freeCodeCamp (Andy Leverenz) - Build your first Rails app - blog with comments (tutorial) (Jun 26,2018)
 Link: https://www.youtube.com/watch?v=wbZ6yrVxScM
